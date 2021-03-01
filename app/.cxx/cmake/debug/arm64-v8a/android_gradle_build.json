@@ -1,237 +1,237 @@
 {
   "stringTable": {
-    "0": "C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a",
-    "1": "--target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/nxf65025/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nxf65025/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_render_EXPORTS -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/util -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/render -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/sample -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/glm -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/inc -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/inc/assimp -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/model -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/opencv_3_0_0 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC"
+    "0": "D:/StudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462-2/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462-2/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_render_EXPORTS -ID:/StudioProjects/openglPro/app/src/main/cpp/util -ID:/StudioProjects/openglPro/app/src/main/cpp/render -ID:/StudioProjects/openglPro/app/src/main/cpp/sample -ID:/StudioProjects/openglPro/app/src/main/cpp/glm -ID:/StudioProjects/openglPro/app/src/main/cpp/inc -ID:/StudioProjects/openglPro/app/src/main/cpp/inc/assimp -ID:/StudioProjects/openglPro/app/src/main/cpp/model -ID:/StudioProjects/openglPro/app/src/main/cpp/opencv_3_0_0 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
-    "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\CMakeLists.txt",
-    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+    "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\build\\cmake\\platforms.cmake"
   ],
   "cleanCommands": [
-    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
   ],
-  "buildTargetsCommand": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "native-render-Debug-arm64-v8a": {
-      "buildCommand": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" native-render",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" native-render",
       "buildType": "debug",
-      "toolchain": "3212165484",
+      "toolchain": "2436192906",
       "abi": "arm64-v8a",
       "artifactName": "native-render",
       "files": [
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\JniImpl.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\JniImpl.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\render\\EGLRender.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\render\\EGLRender.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\render\\MyGLRenderContext.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\render\\MyGLRenderContext.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\util\\GLUtils.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\util\\GLUtils.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\AvatarSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\AvatarSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BasicLightingSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BasicLightingSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BeatingHeartSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BeatingHeartSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BezierCurveSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BezierCurveSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BigEyesSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BigEyesSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BigHeadSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BigHeadSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BlendingSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\BlendingSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\CloudSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\CloudSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\CoordSystemSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\CoordSystemSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\DepthTestingSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\DepthTestingSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FBOBlitSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FBOBlitSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FBOLegLengthenSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FBOLegLengthenSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FBOSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FBOSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FaceSlenderSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\FaceSlenderSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\Instancing3DSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\Instancing3DSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\InstancingSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\InstancingSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\MRTSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\MRTSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\Model3DSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\Model3DSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\MultiLightsSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\MultiLightsSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\NV21TextureMapSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\NV21TextureMapSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\Noise3DSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\Noise3DSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\PBOSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\PBOSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\ParticlesSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\ParticlesSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\RotaryHeadSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\RotaryHeadSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\ScratchCardSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\ScratchCardSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\ShockWaveSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\ShockWaveSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\SkyBoxSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\SkyBoxSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\StencilTestingSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\StencilTestingSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TextureBuffferSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TextureBuffferSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TextureMapSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TextureMapSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TimeTunnelSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TimeTunnelSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TransformFeedbackSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TransformFeedbackSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TriangleSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\TriangleSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\UniformBufferSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\UniformBufferSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\VaoSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\VaoSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\VisualizeAudioSample.cpp",
+          "src": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\sample\\VisualizeAudioSample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-render.so",
+      "output": "D:\\StudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-render.so",
       "runtimeFiles": [
-        "C:\\arm64-v8a\\libassimp.so",
-        "C:\\arm64-v8a\\libopencv_java3.so"
+        "D:\\arm64-v8a\\libassimp.so",
+        "D:\\arm64-v8a\\libopencv_java3.so"
       ]
     }
   },
   "toolchains": {
-    "3212165484": {
-      "cppCompilerExecutable": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    "2436192906": {
+      "cppCompilerExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
     }
   },
   "cFileExtensions": [],

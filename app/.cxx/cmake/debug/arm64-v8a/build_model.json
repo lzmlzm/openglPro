@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
-    "cmakeServerLogFile": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\\cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+    "cmakeArtifactsBaseFolder": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+    "cmakeServerLogFile": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cxx\\debug\\arm64-v8a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,9 +15,9 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
-      "cmakeToolchain": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-      "cmakeExecutable": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "buildRoot": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+      "cmakeToolchain": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
         {
           "name": "CMAKE_CXX_FLAGS",
@@ -25,7 +25,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab"
+          "value": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -33,7 +33,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake"
+          "value": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\build\\cmake\\android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -41,7 +41,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462"
+          "value": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -53,7 +53,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462"
+          "value": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -61,11 +61,11 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
+          "value": "D:\\StudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+          "value": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -78,14 +78,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "cxxBuildFolder": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
   "info": {
     "abi": "ARM64_V8A",
     "bitness": 64,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "originalCxxBuildFolder": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -99,24 +99,24 @@
     "module": {
       "buildSystem": "CMAKE",
       "cmake": {
-        "cmakeExe": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "cmakeExe": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        "ninjaExe": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
-      "cmakeToolchainFile": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx",
+      "cmakeToolchainFile": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "D:\\StudioProjects\\openglPro\\app\\.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build\\intermediates",
-      "makeFile": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\CMakeLists.txt",
-      "moduleBuildFile": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build.gradle",
-      "moduleRootFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app",
+      "intermediatesFolder": "D:\\StudioProjects\\openglPro\\app\\build\\intermediates",
+      "makeFile": "D:\\StudioProjects\\openglPro\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\StudioProjects\\openglPro\\app\\build.gradle",
+      "moduleRootFolder": "D:\\StudioProjects\\openglPro\\app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462",
+      "ndkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -173,35 +173,35 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.1.6352462",
       "project": {
-        "compilerSettingsCacheFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\.cxx",
-        "cxxFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\.cxx",
+        "compilerSettingsCacheFolder": "D:\\StudioProjects\\openglPro\\.cxx",
+        "cxxFolder": "D:\\StudioProjects\\openglPro\\.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro",
-        "sdkFolder": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk",
+        "rootBuildGradleFolder": "D:\\StudioProjects\\openglPro",
+        "sdkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
-          "ARM64_V8A": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
-          "X86": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-          "X86_64": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+          "ARMEABI_V7A": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462-2\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
-    "objFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "objFolder": "D:\\StudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
       "ARM64_V8A"
     ],
-    "prefabDirectory": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\prefab",
+    "prefabDirectory": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a"
+  "prefabFolder": "D:\\StudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a"
 }

@@ -1,3 +1,3 @@
-C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-render.dir
-C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/StudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/StudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-render.dir
+D:/StudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
