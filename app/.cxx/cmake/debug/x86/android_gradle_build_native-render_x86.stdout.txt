@@ -1,0 +1,1 @@
+ninja: Entering directory `C:\Users\nxf65025\AndroidStudioProjects\openglPro\app\.cxx\cmake\debug\x86'

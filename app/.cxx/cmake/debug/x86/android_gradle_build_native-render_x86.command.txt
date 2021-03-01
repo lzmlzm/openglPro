@@ -1,0 +1,7 @@
+Executable : C:\Users\nxf65025\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\nxf65025\AndroidStudioProjects\openglPro\app\.cxx\cmake\debug\x86
+native-render
+jvmArgs : 
+

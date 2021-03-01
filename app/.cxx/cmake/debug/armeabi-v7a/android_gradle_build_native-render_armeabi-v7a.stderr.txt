@@ -1,0 +1,1 @@
+ninja: error: '/armeabi-v7a/libassimp.so', needed by 'C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-render.so', missing and no known rule to make it

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">openglPro</string>
+    <string name="sample_0">着色器(Shader)</string>
+    <string name="sample_1">纹理数组(Texture Array)</string>
+    <string name="sample_2">VBO和IBO(VBO and IBO)</string>
+    <string name="sample_3">帧缓冲(FBO)</string>
+    <string name="sample_4">EGL(EGL)</string>
+    <string name="sample_5">矩阵变换(Matrix Transform)</string>
+    <string name="sample_6">颜色混合(Color Blend)</string>
+    <string name="sample_7">光照(Lighting)</string>
+    <string name="sample_8">VR</string>
+    <string name="sample_9">栅栏(Fence)</string>
+    <string name="sample_10">多重目标渲染(Multiple Render Target)</string>
+    <string name="sample_11">二进制GL程序(Binary GL Program)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

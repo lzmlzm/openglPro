@@ -1,0 +1,1 @@
+ninja: error: '/x86/libassimp.so', needed by 'C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/build/intermediates/cmake/debug/obj/x86/libnative-renderd.so', missing and no known rule to make it
