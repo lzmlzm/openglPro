@@ -71,7 +71,6 @@ class vrRender(private val vertexShaderPath: String, private val fragmentShaderP
         tmpBuffer.put(arrays)
         tmpBuffer.position(0)
         return tmpBuffer
-
     }
 
     fun generateSphere(radius: Float, rings: Int, sectors: Int) {
@@ -203,7 +202,7 @@ class vrRender(private val vertexShaderPath: String, private val fragmentShaderP
         // 将图片解码并加载到纹理中
         // Decode image and load it into texture
         GLES30.glActiveTexture(GLES30.GL_TEXTURE0)
-        val bitmap = Util.decodeBitmapFromAssets("image_2.jpg")
+        val bitmap = Util.decodeBitmapFromAssets("test.png")
         GLES30.glBindTexture(GLES30.GL_TEXTURE_2D, imageTexture)
         val b = ByteBuffer.allocate(bitmap.width * bitmap.height * 4)
         bitmap.copyPixelsToBuffer(b)
