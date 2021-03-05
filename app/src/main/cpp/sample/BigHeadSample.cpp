@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2020/2/30.
-//
+
 
 #include <gtc/matrix_transform.hpp>
 #include "BigHeadSample.h"

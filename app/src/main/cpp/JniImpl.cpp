@@ -1,13 +1,10 @@
-//
-// Created by ByteFlow on 2019/7/9.
-//
 #include "util/LogUtil.h"
 #include <MyGLRenderContext.h>
 #include <EGLRender.h>
 #include "jni.h"
 
-#define NATIVE_RENDER_CLASS_NAME "com/byteflow/app/MyNativeRender"
-#define NATIVE_BG_RENDER_CLASS_NAME "com/byteflow/app/egl/NativeEglRender"
+#define NATIVE_RENDER_CLASS_NAME "com/muglzm/opengl/MyNativeRender"
+#define NATIVE_BG_RENDER_CLASS_NAME "com/muglzm/opengl/egl/NativeEglRender"
 
 #ifdef __cplusplus
 extern "C" {
@@ -54,6 +51,7 @@ JNIEXPORT void JNICALL native_SetImageData
  * Method:    native_SetImageDataWithIndex
  * Signature: (IIII[B)V
  */
+
 JNIEXPORT void JNICALL native_SetImageDataWithIndex
 		(JNIEnv *env, jobject instance, jint index, jint format, jint width, jint height, jbyteArray imageData)
 {

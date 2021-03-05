@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2019/12/26.
-//
 
 #include <GLUtils.h>
 #include <gtc/matrix_transform.hpp>

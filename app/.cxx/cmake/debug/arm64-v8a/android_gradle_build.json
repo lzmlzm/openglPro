@@ -1,12 +1,12 @@
 {
   "stringTable": {
     "0": "C:/Users/nxf65025/AndroidStudioProjects/openglPro/app/.cxx/cmake/debug/arm64-v8a",
-    "1": "--target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/nxf65025/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nxf65025/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_render_EXPORTS -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/util -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/render -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/sample -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/glm -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/inc -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/inc/assimp -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/model -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/opencv_3_0_0 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC"
+    "1": "--target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/nxf65025/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nxf65025/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_render_EXPORTS -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/util -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/render -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/sample -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/glm -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/inc -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/inc/assimp -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/model -IC:/Users/nxf65025/AndroidStudioProjects/openglPro/app/src/main/cpp/opencv_3_0_0 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
     "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\src\\main\\cpp\\CMakeLists.txt",
-    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\platforms.cmake"
   ],
   "cleanCommands": [
     "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
@@ -16,7 +16,7 @@
     "native-render-Debug-arm64-v8a": {
       "buildCommand": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\" native-render",
       "buildType": "debug",
-      "toolchain": "3212165484",
+      "toolchain": "495295316",
       "abi": "arm64-v8a",
       "artifactName": "native-render",
       "files": [
@@ -222,16 +222,13 @@
         }
       ],
       "headers": [],
-      "output": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-render.so",
-      "runtimeFiles": [
-        "C:\\arm64-v8a\\libassimp.so",
-        "C:\\arm64-v8a\\libopencv_java3.so"
-      ]
+      "output": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a\\libnative-render.so",
+      "runtimeFiles": []
     }
   },
   "toolchains": {
-    "3212165484": {
-      "cppCompilerExecutable": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    "495295316": {
+      "cppCompilerExecutable": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
     }
   },
   "cFileExtensions": [],

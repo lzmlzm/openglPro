@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2020/01/08.
-//
+
 
 #ifndef NDK_OPENGLES_3_0_TIMETUNNEL_SAMPLE_H
 #define NDK_OPENGLES_3_0_TIMETUNNEL_SAMPLE_H

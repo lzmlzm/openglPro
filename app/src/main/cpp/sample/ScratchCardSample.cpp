@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2020/5/19.
-//
 
 #include <gtc/matrix_transform.hpp>
 #include "ScratchCardSample.h"

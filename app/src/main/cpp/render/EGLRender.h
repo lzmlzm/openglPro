@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2019/7/17.
-//
 
 #ifndef NDK_OPENGLES_3_0_BGRENDER_H
 #define NDK_OPENGLES_3_0_BGRENDER_H

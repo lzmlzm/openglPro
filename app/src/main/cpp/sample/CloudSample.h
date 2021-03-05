@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2020/1/1.
-//
 
 #ifndef NDK_OPENGLES_3_0_CLOUD_H
 #define NDK_OPENGLES_3_0_CLOUD_H

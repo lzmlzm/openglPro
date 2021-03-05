@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2021/7/30.
-//
 
 #include <gtc/matrix_transform.hpp>
 #include "TextureBufferSample.h"

@@ -6,8 +6,10 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
+    ndkVersion "22.0.7026061"
 
     defaultConfig {
+
         applicationId "com.muglzm.opengl"
         minSdkVersion 25
         targetSdkVersion 30

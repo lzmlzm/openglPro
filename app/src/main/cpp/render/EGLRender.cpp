@@ -1,7 +1,3 @@
-//
-// Created by ByteFlow on 2019/7/17.
-//
-
 #include <LogUtil.h>
 #include <GLUtils.h>
 #include "EGLRender.h"

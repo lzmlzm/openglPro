@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2020/3/03.
-//
+
 
 #ifndef NDK_OPENGLES_3_0_BEZIERCURVESAMPLE_H
 #define NDK_OPENGLES_3_0_BEZIERCURVESAMPLE_H

@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2020/2/30.
-//
+
 
 #ifndef NDK_OPENGLES_3_0_BIGEYESSAMPLE_H
 #define NDK_OPENGLES_3_0_BIGEYESSAMPLE_H
@@ -8,7 +6,7 @@
 
 #include <detail/type_mat.hpp>
 #include <detail/type_mat4x4.hpp>
-#include <ByteFlowLock.h>
+#include <MyFlowLock.h>
 #include "GLSampleBase.h"
 
 class BigEyesSample : public GLSampleBase

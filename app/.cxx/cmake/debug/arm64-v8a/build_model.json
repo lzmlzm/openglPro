@@ -16,7 +16,7 @@
         "ndk"
       ],
       "buildRoot": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx\\cmake\\debug\\arm64-v8a",
-      "cmakeToolchain": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+      "cmakeToolchain": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake",
       "cmakeExecutable": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
         {
@@ -33,7 +33,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake"
+          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -41,7 +41,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462"
+          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -53,7 +53,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462"
+          "value": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -103,7 +103,7 @@
         "minimumCmakeVersion": "3.10.2",
         "ninjaExe": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
-      "cmakeToolchainFile": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+      "cmakeToolchainFile": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake",
       "cxxFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\.cxx",
       "gradleModulePathName": ":app",
       "intermediatesFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\app\\build\\intermediates",
@@ -116,7 +116,7 @@
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462",
+      "ndkFolder": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -145,7 +145,7 @@
       ],
       "ndkMetaPlatforms": {
         "min": 16,
-        "max": 29,
+        "max": 30,
         "aliases": {
           "20": 19,
           "25": 24,
@@ -161,7 +161,8 @@
           "O": 26,
           "O-MR1": 27,
           "P": 28,
-          "Q": 29
+          "Q": 29,
+          "R": 30
         }
       },
       "ndkSupportedAbiList": [
@@ -171,11 +172,10 @@
         "X86_64"
       ],
       "ndkDefaultStl": "LIBCXX_STATIC",
-      "ndkVersion": "21.1.6352462",
+      "ndkVersion": "22.0.7026061",
       "project": {
         "compilerSettingsCacheFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\.cxx",
         "cxxFolder": "C:\\Users\\nxf65025\\AndroidStudioProjects\\openglPro\\.cxx",
-        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -186,10 +186,10 @@
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
-          "ARM64_V8A": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
-          "X86": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-          "X86_64": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+          "ARMEABI_V7A": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\nxf65025\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},

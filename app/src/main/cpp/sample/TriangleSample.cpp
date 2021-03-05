@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2019/7/9.
-//
 
 #include "TriangleSample.h"
 #include "../util/GLUtils.h"

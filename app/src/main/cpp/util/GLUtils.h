@@ -1,14 +1,31 @@
-#ifndef _BYTE_FLOW_GL_UTILS_H_
-#define _BYTE_FLOW_GL_UTILS_H_
+//
+// Created by Administrator on 2021/3/2.
+//
+
+#ifndef NATIVE_GLES_GLUTILS_H
+#define NATIVE_GLES_GLUTILS_H
+
 
 #include <GLES3/gl3.h>
 #include <string>
 #include <glm.hpp>
 
-class GLUtils {
-public:
-    static GLuint LoadShader(GLenum shaderType, const char *pSource);
+#include<utility>
+#include<iostream>
+#include<string>
+#include<fstream>
+using namespace std;
 
+class GLUtils {
+
+
+public:
+
+    static string readShaderSource(const char * filePath);
+
+    static pair<string, string> readShader(const char*file1, const char* file2);
+
+    static  GLuint LoadShader(GLenum shaderType, const char *pSource);
     static GLuint CreateProgram(const char *pVertexShaderSource, const char *pFragShaderSource,
                                 GLuint &vertexShaderHandle,
                                 GLuint &fragShaderHandle);
@@ -78,7 +95,7 @@ public:
     static glm::vec3 texCoordToVertexCoord(glm::vec2 texCoord) {
         return glm::vec3(2 * texCoord.x - 1, 1 - 2 * texCoord.y, 0);
     }
-
 };
 
-#endif // _BYTE_FLOW_GL_UTILS_H_
+
+#endif //NATIVE_GLES_GLUTILS_H

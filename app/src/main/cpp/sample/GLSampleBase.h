@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2019/7/9.
-//
+
 
 #ifndef NDK_OPENGLES_3_0_GLSAMPLEBASE_H
 #define NDK_OPENGLES_3_0_GLSAMPLEBASE_H
@@ -8,7 +6,7 @@
 #include "stdint.h"
 #include <GLES3/gl3.h>
 #include <ImageDef.h>
-#include <ByteFlowLock.h>
+#include <MyFlowLock.h>
 
 //For PI define
 #define MATH_PI 3.1415926535897932384626433832802

@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2020/7/30.
-//
 
 #include <gtc/matrix_transform.hpp>
 #include "ShockWaveSample.h"

@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2019/1/14.
-//
 
 #ifndef BYTEFLOW_LOGUTIL_H
 #define BYTEFLOW_LOGUTIL_H
@@ -8,7 +5,7 @@
 #include<android/log.h>
 #include <sys/time.h>
 
-#define  LOG_TAG "ByteFlow"
+#define  LOG_TAG "Muglzm"
 
 #define  LOGCATE(...)  __android_log_print(ANDROID_LOG_ERROR,LOG_TAG,__VA_ARGS__)
 #define  LOGCATV(...)  __android_log_print(ANDROID_LOG_VERBOSE,LOG_TAG,__VA_ARGS__)

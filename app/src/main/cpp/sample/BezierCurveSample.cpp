@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2020/3/03.
-//
+
 
 #include <gtc/matrix_transform.hpp>
 #include "BezierCurveSample.h"

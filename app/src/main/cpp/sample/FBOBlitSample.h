@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2020/9/30.
-//
+
 
 #ifndef NDK_OPENGLES_3_0_FBOBLITSAMPLE_H
 #define NDK_OPENGLES_3_0_FBOBLITSAMPLE_H

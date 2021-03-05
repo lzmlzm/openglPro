@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2019/7/9.
-//
+
 
 #include <vec2.hpp>
 #include "InstancingSample.h"

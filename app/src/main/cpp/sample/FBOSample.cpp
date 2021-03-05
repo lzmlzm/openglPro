@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2019/7/16.
-//
+
 
 #include <GLUtils.h>
 #include "FBOSample.h"

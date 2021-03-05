@@ -1,6 +1,3 @@
-//
-// Created by ByteFlow on 2019/7/30.
-//
 
 #ifndef NDK_OPENGLES_3_0_SHOCKWAVESAMPLE_H
 #define NDK_OPENGLES_3_0_SHOCKWAVESAMPLE_H

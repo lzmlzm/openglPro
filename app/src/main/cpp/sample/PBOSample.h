@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2019/12/26.
-//
+
 
 #ifndef NDK_OPENGLES_3_0_PBOSAMPLE_H
 #define NDK_OPENGLES_3_0_PBOSAMPLE_H

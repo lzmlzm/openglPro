@@ -175,7 +175,7 @@ class vrRender(private val vertexShaderPath: String, private val fragmentShaderP
         // Use the GL program
         GLES30.glUseProgram(programId)
 
-        generateSphere(18.0f,75,150)
+        generateSphere(18.0f,90,180)
 
         // 启动对应位置的参数，这里直接使用LOCATION_ATTRIBUTE_POSITION，而无需像OpenGL 2.0那样需要先获取参数的location
         // Enable the parameter of the location. Here we can simply use LOCATION_ATTRIBUTE_POSITION, while in OpenGL 2.0 we have to query the location of the parameter
